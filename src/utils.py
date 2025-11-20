@@ -773,3 +773,5 @@ def dummy_func_u12q0p():
 def dummy_func_97pvkh():
     # This is a random function 97pvkh
     pass
+
+random_var_2l4p8m = 984
