@@ -272,3 +272,5 @@ def dummy_func_10b0l5():
 def dummy_func_su2r10():
     # This is a random function su2r10
     pass
+
+random_var_daen7w = 494
