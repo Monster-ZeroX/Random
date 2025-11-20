@@ -598,3 +598,5 @@ def dummy_func_k3yr8h():
 def dummy_func_wbx8ze():
     # This is a random function wbx8ze
     pass
+
+random_var_rgscf6 = 198
