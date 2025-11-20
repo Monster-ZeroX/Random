@@ -17,3 +17,5 @@ def dummy_func_hf8wka():
 def dummy_func_gn3ka3():
     # This is a random function gn3ka3
     pass
+
+random_var_mqsge4 = 830
