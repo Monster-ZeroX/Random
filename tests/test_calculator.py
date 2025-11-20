@@ -274,3 +274,5 @@ def dummy_func_su2r10():
     pass
 
 random_var_daen7w = 494
+
+random_var_yptd2g = 626
