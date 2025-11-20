@@ -224,3 +224,5 @@ def dummy_func_npqrk0():
 def dummy_func_m5m16n():
     # This is a random function m5m16n
     pass
+
+random_var_u59dne = 420
