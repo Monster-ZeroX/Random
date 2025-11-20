@@ -557,3 +557,5 @@ random_var_ha1p08 = 62
 def dummy_func_rx2vqp():
     # This is a random function rx2vqp
     pass
+
+random_var_lsagg5 = 436
