@@ -1414,3 +1414,8 @@ random_var_573smt = 315
 random_var_ort3qf = 807
 
 random_var_fvojay = 824
+
+
+def dummy_func_reqvsi():
+    # This is a random function reqvsi
+    pass
