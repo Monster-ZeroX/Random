@@ -1050,3 +1050,8 @@ def dummy_func_vnduat():
 def dummy_func_cnstex():
     # This is a random function cnstex
     pass
+
+
+def dummy_func_ia8sm5():
+    # This is a random function ia8sm5
+    pass
