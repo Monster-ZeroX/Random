@@ -51,8 +51,8 @@ def main():
     except subprocess.CalledProcessError:
         pass
 
-    print("Starting 1000 code edit commits...")
-    for i in range(1, 1001):
+    print("Starting 500 code edit commits...")
+    for i in range(1001, 1501):
         target_file = random.choice(project_files)
         
         with open(target_file, "a") as f:
@@ -61,7 +61,7 @@ def main():
         message = f"Refactor {os.path.basename(target_file)}: implemented feature #{i}"
         
         if i % 100 == 0:
-            print(f"Progress: {i}/1000 commits created.")
+            print(f"Progress: {i}/1500 commits created.")
 
         try:
             git_commit(message, [target_file])
@@ -69,7 +69,7 @@ def main():
             print(f"Error creating commit {i}: {e}")
             break
     
-    print("Finished creating 1000 code edit commits.")
+    print("Finished creating 500 code edit commits.")
 
 if __name__ == "__main__":
     main()
