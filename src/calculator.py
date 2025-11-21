@@ -1040,3 +1040,5 @@ def dummy_func_u8rwor():
 def dummy_func_jcpc5g():
     # This is a random function jcpc5g
     pass
+
+random_var_7mvq60 = 232
