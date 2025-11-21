@@ -1384,3 +1384,5 @@ random_var_lbe399 = 46
 def dummy_func_icop2j():
     # This is a random function icop2j
     pass
+
+random_var_arssq9 = 614
