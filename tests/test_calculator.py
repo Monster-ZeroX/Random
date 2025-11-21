@@ -1055,3 +1055,8 @@ def dummy_func_cnstex():
 def dummy_func_ia8sm5():
     # This is a random function ia8sm5
     pass
+
+
+def dummy_func_odknmu():
+    # This is a random function odknmu
+    pass
